@@ -21,5 +21,4 @@ When this robot is run, it should:
     library can be found [here](https://rpaframework.org/#)
 
 ## Bonus
-What other nifty features can you add to your robot? This is not required but is an
-opportunity for you to have fun with your code and show your creativity.
+Some bonus feaure include ChatGPT has been added, so that a joke will be generated for each scientist. Futhermore, a loading bar will appear as it is generating the content for each Scientist.
